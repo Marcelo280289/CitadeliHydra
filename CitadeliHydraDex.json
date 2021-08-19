@@ -1,0 +1,24 @@
+{
+  "name": "HydraSwap",
+  "logoURI": "",
+  "keywords": [
+    "hydra",
+    "hydraswap"
+  ],
+  "timestamp": "2021-07-19T21:59:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "6b054b205b3a74c1600f782026ce6a29f9b01b11",
+      "name": "CITADELI",
+      "symbol": "CTDLE",
+      "decimals": 8,
+      "logoURI": "https://svgur.com/s/UVh"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
